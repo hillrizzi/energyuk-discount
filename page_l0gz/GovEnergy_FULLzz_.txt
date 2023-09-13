@@ -1,0 +1,48 @@
+
++ ------------ GovEnergy Fullz -------------+
++ ------------------------------------------+
+| Full name : Samantha  DeRoy
+| DOB : 01/01/1990
+| Mobile number : 07975777666
+| Address : 640 E Jefferson Ave
+| Town : london
+| Postcode : 80113
++ ------------------------------------------+
+| Holder name : john doe
+| Card number : 4363862855726721
+| Expiry date : 11/2026
+| CVV : 307
+| BIN : 436386 | VISA |  |  | 
++ ------------------------------------------+
++ Victim Information
+| IP Address : 41.79.217.124
+| UserAgent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+| Browser : Chrome
+| OS : WinNT
+| Received : Tuesday 25 July 2023 @ 01:06
++ ---------------- @Kr3pto ------------------+
+
+
++ ------------ GovEnergy Fullz -------------+
++ ------------------------------------------+
+| Full name : user demo
+| DOB : 01/02/1990
+| Mobile number : 07845482456
+| Address : jdjdj
+| Town : london
+| Postcode : w8 7pa
++ ------------------------------------------+
+| Holder name : USER DEMO
+| Card number : 4049787802737277
+| Expiry date : 05/2023
+| CVV : 295
+| BIN : 404978 | VISA |  |  | HONG LEONG BANK BERHAD
++ ------------------------------------------+
++ Victim Information
+| IP Address : 104.28.34.30
+| UserAgent : Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1
+| Browser : Safari
+| OS : iPhone
+| Received : Tuesday 25 July 2023 @ 01:13
++ ---------------- @Kr3pto ------------------+
+
